@@ -29,7 +29,8 @@ Data Visualization (matplotlib, seaborn)
 📂 Project Structure
 
 📦 Sales Prediction
- ┣ 📂 static                  # Static files (CSS, JS, Images)
+
+ ┣ 📂 static                  # Static files 
  
  ┣ 📂 templates               # HTML templates for Flask app
  
