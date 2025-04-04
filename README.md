@@ -1,4 +1,5 @@
 Sales Prediction Analysis
+
 📌 Project Overview
 This project focuses on analyzing historical sales data and building predictive models to forecast future sales trends. By leveraging data analysis and machine learning techniques, 
 this project aims to help businesses make data-driven decisions and optimize sales strategies.This was my second-year project.
