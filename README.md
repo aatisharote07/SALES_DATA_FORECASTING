@@ -5,6 +5,7 @@ This project focuses on analyzing historical sales data and building predictive 
 this project aims to help businesses make data-driven decisions and optimize sales strategies.This was my second-year project.
 
 🔍 Features
+
 Data preprocessing and cleaning
 Exploratory Data Analysis (EDA) for insights
 Sales forecasting using machine learning models
@@ -12,11 +13,13 @@ Model evaluation and performance comparison
 Visualization of trends and predictions
 
 🛠️ Technologies Used
+
 Python (pandas, numpy, matplotlib, seaborn)
 Machine Learning (scikit-learn)
 Data Visualization (matplotlib, seaborn)
 
 📂 Project Structure
+
 📦 Sales-Prediction-Analysis
  ┣ 📂 data             # Raw and processed datasets
  ┣ 📂 notebooks        # Jupyter notebooks for analysis
@@ -29,6 +32,7 @@ Built regression models for forecasting
 Improved accuracy through feature engineering
 
 🔮 Future Enhancements
+
 Incorporating deep learning models for better predictions
 Adding real-time sales prediction capabilities
 Expanding dataset for more generalized insighSales Prediction Analysis
