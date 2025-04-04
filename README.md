@@ -28,19 +28,25 @@ Data Visualization (matplotlib, seaborn)
 
 📂 Project Structure
 
-📦 Sales-Prediction-Analysis
+📦 Sales Prediction
+ ┣ 📂 static                  # Static files (CSS, JS, Images)
+ 
+ ┣ 📂 templates               # HTML templates for Flask app
+ 
+ ┣ 📜 app.py                  # Flask web application
+ 
+ ┣ 📜 python script.py        # Main script for model training/testing
+ 
+ ┣ 📜 random_forest_model.pkl # Trained machine learning model
+ 
+ ┣ 📜 requirement.txt         # Required libraries
+ 
+ ┣ 📜 sales.ipynb             # Jupyter notebook for analysis
+ 
+ ┣ 📜 train.csv               # Dataset for training
+ 
+ ┗ 📜 README.md               # Project documentation
 
- ┣ 📂 data             # Raw and processed datasets
- 
- ┣ 📂 notebooks        # Jupyter notebooks for analysis
- 
- ┣ 📂 models           # Saved machine learning models
- 
- ┣ 📜 README.md        # Project documentation
- 
- ┣ 📜 requirements.txt # Required libraries
- 
- ┗ 📜 sales_prediction.py # Main script
  
 📊 Results & Insights
 
