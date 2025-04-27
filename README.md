@@ -1,4 +1,4 @@
-Sales Prediction Analysis
+# Sales Prediction Analysis
 
 📌 Project Overview
 
